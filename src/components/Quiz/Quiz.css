@@ -1,0 +1,8 @@
+.QuizList{
+    list-style: none;
+    padding: 0 auto;
+}
+
+.Quiz{
+    padding: 35px ;
+}

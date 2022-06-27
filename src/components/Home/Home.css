@@ -1,0 +1,29 @@
+#link{
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+    letter-spacing: 0.2em;
+}
+
+#Home{
+    padding: 35px;
+}
+
+.title{
+    letter-spacing: 0.3em;
+}
+
+#go{
+    font-size: 20px;
+    display: inline-block;
+    border: 1px solid  #efefef;
+    border-radius: 8px;
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+#go:hover{
+    cursor: pointer;
+    background-color: #adc6ff;
+}
